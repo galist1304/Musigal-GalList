@@ -45,11 +45,16 @@ The application will be accessible at http://localhost:3001 in your web browser.
 ## Getting Started
 To get started with Musigal, follow these simple steps:
 
-Sign Up or Log In: Create your Musigal account or log in if you're an existing user.
-Explore and Connect: Discover music, connect with friends, and start sharing your favorite tracks.
-Rate and Review: Contribute to the community by rating and reviewing music you love.
-Climb the Leaderboards: Engage with the community, earn points, and climb to the top of the leaderboards.
-Vinyl Marketplace: Explore the vinyl marketplace, buy records from friends, and sell your own.
+### Sign Up or Log In: 
+Create your Musigal account or log in if you're an existing user.
+### Explore and Connect: 
+Discover music, connect with friends, and start sharing your favorite tracks.
+### Rate and Review: 
+Contribute to the community by rating and reviewing music you love.
+### Climb the Leaderboards: 
+Engage with the community, earn points, and climb to the top of the leaderboards.
+### Vinyl Marketplace: 
+Explore the vinyl marketplace, buy records from friends, and sell your own.
 
 ## Contribution
 Musigal is an open-source project, and we welcome contributions from the community. If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request.
