@@ -37,7 +37,7 @@ If you haven't installed nodemon globally, you can do so using:
 npm install -g nodemon
 ### 5. Run the Application
 Start the Musigal application using nodemon:
-nodemon app.js
+nodemon app.js .
 This will monitor your files for changes and automatically restart the server.
 
 The application will be accessible at http://localhost:3001 in your web browser.
